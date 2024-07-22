@@ -86,7 +86,7 @@ OPENAI_API_KEY=
 
 > Webhook API is the same way.
 
-> Webhook URL: http://IP_ADRESİNİZ:3001/ - edit your IP address and do it.
+> Webhook URL: http://YOUR_IP:3001/ - edit your IP address and do it.
 
 > Groq API in your Groq account.
 
