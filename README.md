@@ -122,4 +122,4 @@ docker logs scout
 
 > If the installation was successful, you will see your name at the end of the list [here](https://scout.chasm.net/leaderboard).
 
-<img width=“1318” alt=“Screenshot 2024-07-20 00 44 02” src=“https://github.com/user-attachments/assets/45a468af-d186-4e2c-9f9b-614d5de92091”>
+
