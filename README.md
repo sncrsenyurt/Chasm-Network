@@ -1,7 +1,5 @@
 # Chasm-Network
 
-> I'm flying tomorrow so I couldn't share the repo, sorry I'm throwing it at night so you don't fall behind in points.
-
 #
 
 > I installed my Chasm Network Scout Node and started collecting points, details:
